@@ -13,3 +13,4 @@ New and returning applicants
 You will need to submit a new online application if you are applying to Memorial University for the first time, if you were previously admitted but didn’t register for courses, or if you were previously enrolled and haven’t registered for courses in more than three consecutive semesters.
 
 Apply online using the button below and either select Create Account or if you have already created an account, Sign In. Once your account is created and you are signed in, select Create Application and then select the appropriate application.
+yes boss
